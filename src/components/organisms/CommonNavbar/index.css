@@ -1,0 +1,27 @@
+@import'bootstrap/dist/css/bootstrap.min.css';
+
+.headerdiv
+{
+    margin:0px;
+}
+.mike
+{
+    font-size:30px;
+    color:white;
+}
+.nav
+{
+   padding-right:5%;
+}
+.Navbar1
+{
+    position:fixed;
+}
+.One
+{
+padding-right:50%;
+}
+.shift
+{
+    padding-right:50%;
+}

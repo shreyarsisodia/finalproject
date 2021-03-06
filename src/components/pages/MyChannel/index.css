@@ -1,0 +1,32 @@
+.container1
+{
+    height:100%;
+    margin-bottom:100px; 
+    
+}
+.container1 .box {  
+    width:540px;  
+    margin-top:50px;  
+    display:table;  
+} 
+.threedivs
+{
+   display:flex;
+   flex-direction:row; 
+}
+.insidediv
+{
+    height:200px;
+    width:33.33%;
+    background-color:rgb(227, 226, 226);;
+    margin:10px 10px 10px 10px;
+    border-radius:10px;
+    text-align:center;
+    font-size:40px;
+    font-family:'Lobster', cursive;
+}
+.insidediv li
+{
+list-style:none;
+text-align:center;
+}

@@ -1,0 +1,14 @@
+.ChannelBox {
+display: flex;
+#background-color: DodgerBlue;
+flex-shrink: 0;
+width:auto;
+justify-content: flex-end;
+padding-top:50px;
+}
+
+.ChannelBox > div {
+  #background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+}

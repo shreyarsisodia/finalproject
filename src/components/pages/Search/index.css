@@ -1,0 +1,14 @@
+@import'bootstrap/dist/css/bootstrap.min.css';
+.searchbox
+{
+  background-color:#3dc1d3;
+    height:330px;
+    width:100%;
+    padding-top:10%;
+}
+.speaker
+{
+    color:black;
+    font-size:100px;
+    margin-left:25%;
+}
